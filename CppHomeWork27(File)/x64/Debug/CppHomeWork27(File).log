@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\user\OneDrive\Desktop\C#\CppHomeWork27(File)\CppHomeWork27(File)\Source.cpp(30,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\OneDrive\Desktop\C#\CppHomeWork27(File)\CppHomeWork27(File)\Source.cpp(33,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\OneDrive\Desktop\C#\CppHomeWork27(File)\CppHomeWork27(File)\Source.cpp(136,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  CppHomeWork27(File).vcxproj -> C:\Users\user\OneDrive\Desktop\C#\CppHomeWork27(File)\x64\Debug\CppHomeWork27(File).exe
